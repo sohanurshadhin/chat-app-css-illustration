@@ -26,5 +26,5 @@ I made a live chat app with screen of conversation.
 
 ## Author
 
-- Frontend Mentor - [@ShadhinForever](https://www.frontendmentor.io/profile/sohanurshadhin)
-- Github - [@ShadhinForever](https://www.twitter.com/sohanurrshadhin)
+- Frontend Mentor - [@sohanurshadhin](https://www.frontendmentor.io/profile/sohanurshadhin)
+- Github - [@sohanurrshadhin](https://www.twitter.com/sohanurrshadhin)
