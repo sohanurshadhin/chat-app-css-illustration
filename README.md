@@ -13,6 +13,11 @@ I made a live chat app with screen of conversation.
 ![desktop](./webpage-view/desktop.png)
 ![phone](./webpage-view/phone.png)
 
+### Links
+
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/chat-app-with-css-lbdLZBZOpi)
+- Live Site URL: [Vercel](https://chat-app-css-illustration-xi-nine.vercel.app/)
+
 ## My process
 
 ### Built with
@@ -27,4 +32,6 @@ I made a live chat app with screen of conversation.
 ## Author
 
 - Frontend Mentor - [@sohanurshadhin](https://www.frontendmentor.io/profile/sohanurshadhin)
-- Github - [@sohanurrshadhin](https://www.twitter.com/sohanurrshadhin)
+- Instagram - [@SohanurShadhinn](https://www.instagram.com/sohanurshadhin/)
+- LinkedIn - [@sohanurshadhin](https://www.linkedin.com/in/sohanurshadhin/)
+- X - [@SohanurShadhinn](https://x.com/SohanurShadhinn)
